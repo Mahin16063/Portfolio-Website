@@ -93,7 +93,7 @@ const Portfolio: React.FC = () => {
       role: "LC",
       year: "2025",
       description: "Developed a distributed embedded reefing system using Raspberry Pi Pico (RP2040), integrating sensor input, wireless communication, GPIO control, and non-volatile flight data logging for rocket recovery operations.",
-      image: "https://cdn.prod.website-files.com/696198f7712839d5309dcf9a/696198f7712839d5309dcf9a/69619967f075624bfbdb92c2_IMG_0880-Enhanced-NR-min.jpg",
+      image: "https://cdn.prod.website-files.com/696198f7712839d5309dcf9a/6961a6c8cbafb898e8622b88_frame00108013.jpg",
       tags: ["Embedded", "RP2040", "IoT"]
     }
   ];
@@ -107,7 +107,7 @@ const Portfolio: React.FC = () => {
     "https://cdn.prod.website-files.com/696198f7712839d5309dcf9a/6961ae756f6f85a8479b0179_IMG_0560.jpg",
     "https://cdn.prod.website-files.com/696198f7712839d5309dcf9a/6961ae9eee157a9f691c0d1f_IMG_5029.jpg",
     "https://cdn.prod.website-files.com/696198f7712839d5309dcf9a/6961ae84a818ccd52f37aec6_000692200007.jpg",
-    "https://cdn.prod.website-files.com/696198f7712839d5309dcf9a/6961a6c8cbafb898e8622b88_frame00108013.jpg",
+    "/rb.jpg",
     "https://cdn.prod.website-files.com/696198f7712839d5309dcf9a/6961b7d5d26525f8561ac8f8_PXL_20251021_233711385.MP.jpg",
     "https://cdn.prod.website-files.com/696198f7712839d5309dcf9a/6961b7f5ddf2f3eebc9bfafc_PXL_20250913_162200279.MP.jpg",
     "https://cdn.prod.website-files.com/696198f7712839d5309dcf9a/6961b86f17d6448d5343dfcd_Screenshot_20251206-124605.png"
