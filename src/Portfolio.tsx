@@ -115,8 +115,8 @@ const Portfolio: React.FC = () => {
 
   const stats: Stat[] = [
     { number: "300+", label: "people worked with" },
-    { number: "50%", label: "more efficiency" },
-    { number: "60%", label: "more scalability in projects" }
+    { number: "10+", label: "teams led" },
+    { number: "4+", label: "major projects" }
   ];
 
   const menuItems: string[] = ['About', 'Projects', 'Gallery', 'Contact'];
